@@ -1,0 +1,8 @@
+1. git init
+2. git status
+3. git add file name (single file)
+4. git add . (all file add)
+5. git commit -m "commit message";
+6. git push (for upload code on live github)
+7. git clone url (any project clone your local machine)
+8. git pull (for downlaod latest update this repository)
