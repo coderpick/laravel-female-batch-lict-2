@@ -1,0 +1,2 @@
+
+$('#tooltip').tooltip('toggle')
