@@ -1,0 +1,30 @@
+        header, footer {
+            text-align: center;
+            padding: 20px;
+            background-color: tomato;
+        }
+
+        nav {
+            background: gray;
+            overflow: hidden;
+        }
+
+        nav ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        nav ul li {
+            float: left;
+        }
+
+        nav ul li a {
+            display: inline-block;
+            padding: 14px 18px;
+            color: #f4f4f4;
+            text-decoration: none;
+            font-size: 22px;
+        }
+
+        nav ul li a:hover {}
